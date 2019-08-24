@@ -5,6 +5,7 @@
  In this article we will learn how to implement barcode and QRcode scanner feature in flutter. We will use barcode_scan plugin for that. Barcode_scan plugin written in kotlin so we need some extra efforts for android.
 
 ## Output:
+![Barcode and QRCode Scan In Flutter](https://raw.githubusercontent.com/myvsparth/flutter_barcode_scan/master/screenshots/1.png)
 
 ## Plugin Required: barcode_scan: ^1.0.0
 
